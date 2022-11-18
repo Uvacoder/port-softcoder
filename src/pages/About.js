@@ -22,18 +22,18 @@ function About() {
               <span className="span-tag body">{'<body>'}</span>
               <br/>
               <span className="span-tag content">{'<h1>'}</span>
-                <h1 className="title-about">Olá,</h1>
+                <h1 className="title-about">Hello,</h1>
               <span className="span-tag content">{'</h1>'}</span>
               <br/>
               <span className="span-tag content">{'<p>'}</span>
                 <p className="text-about">
-                  Meu nome é <span className="span-highlight">Thiago Nóbrega</span> e adoro solucionar problemas através dos códigos. Sou formado em Engenharia Civil, mas estou em transição de carreira, atualmente estudando Desenvolvimento <span className="span-highlight">Web Full Stack.</span>
+                  My name is <span className="span-highlight">Kenneth Mei.</span> I love to solve problems through codes. I have a Bachelor's degree in Software Engineering, I love <span className="span-highlight"> Full Stack JavaScript.</span>
                 </p>
                 <p className="text-about">
-                  Meu foco é poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam <span className="span-highlight">acessíveis e funcionais</span>. A experiência inclui a solução de problemas e testes, trabalhando em equipes com prazos rigorosos, para projetos desenvolvidos no curso da Trybe.
+                  My focus is to be able to improve people's lives, developing applications that are <span className="span-highlight">accessible and functional</span>. <br />Experience includes troubleshooting and testing, working in teams with good communication and tech skill.
                 </p>
                 <p className="text-about last">
-                  AS habilidades relevantes incluem: <span className="span-highlight">Html, CSS, JavaScript, React, Redux, ContextAPI, Hooks, Jest/RTL, Git/Github.</span>
+                  Relevant skills include: <span className="span-highlight">Html5, CSS3, JavaScript, React, Next, Redux, Hooks, Jest/RTL, AWS, Expres.js, Django, MongoDB, PostgreSQL.</span>
                 </p>
               <span className="span-tag content">{'</p>'}</span>
               <br/>

@@ -23,7 +23,7 @@ function Projects() {
         <Header />
         <MenuMobile />
         <main className="main-wrapper projects">
-          <h1 className="title-page-projects">Meus projetos...</h1>
+          <h1 className="title-page-projects">My project...</h1>
           <div className="btn-container">
             <button 
               type="button" 
@@ -35,16 +35,30 @@ function Projects() {
             <button 
               type="button" 
               className={`btn-filter ${typeFilter === 'front' && 'active'}`} 
-              onClick={() => setTypeFilter('front')}
+              onClick={() => setTypeFilter('fullstack')}
             >
-              Front-end
+              Full Stack
             </button>
             <button 
               type="button" 
               className={`btn-filter ${typeFilter === 'back' && 'active'}`} 
-              onClick={() => setTypeFilter('back')}
+              onClick={() => setTypeFilter('frontend')}
             >
-              Back-end
+              Frontend
+            </button>
+            <button 
+              type="button" 
+              className={`btn-filter ${typeFilter === 'back' && 'active'}`} 
+              onClick={() => setTypeFilter('backend')}
+            >
+              Backend
+            </button>
+            <button 
+              type="button" 
+              className={`btn-filter ${typeFilter === 'back' && 'active'}`} 
+              onClick={() => setTypeFilter('blockchain')}
+            >
+              Blockchain
             </button>
           </div>
           <div className="projects-container">
@@ -62,7 +76,7 @@ function Projects() {
                 </div>
                 <div className="links-container">
                   <a href={repository} title="Github" target="_blank" rel="noreferrer"><FiGithub /></a>
-                  <a href={site} title="Ver aplicação" target="_blank" rel="noreferrer"><FiExternalLink /></a>
+                  <a href={site} title="See Applications" target="_blank" rel="noreferrer"><FiExternalLink /></a>
                 </div>
               </div>
             ))}

@@ -1,17 +1,17 @@
 const recommendation = [
   {
-    name: 'Suelen Arruda', 
-    message: '"Além de ser uma pessoa talentosíssima e com habilidades técnicas inúmeras, nos presentou com seu carisma, tranquilidade, equilíbrio. Sempre pronto a ajudar."', 
-    social: 'https://www.linkedin.com/in/suelen-arruda/'
+    name: 'Kenan Orhand', 
+    message: '"In addition to being a very talented person with countless technical skills, he presented us with his charisma, tranquility, balance. always ready to help"', 
+    social: 'https://www.linkedin.com/in/kenan-orhan/'
   },
   {
-    name: 'Ingrid Mattos', 
-    message: '"Além de ser uma pessoa incrível pra trocar aprendizados, se demonstrou peça fundamental no projeto que fizemos parte. Ele se mostrou uma pessoa muito colaborativa e prestativa, ajudando na construção de soluções para problemas com muita criatividade."', 
-    social: 'https://www.linkedin.com/in/ingrid-mattos/'
+    name: 'Andie Luis', 
+    message: '"In addition to being an incredible person to exchange learning, he proved to be a fundamental part of the project that we were part of. He proved to be a very collaborative and helpful person, helping to build solutions to problems with a lot of creativity."', 
+    social: 'https://www.linkedin.com/in/andie-luis/'
   },
   {
     name: 'João Gabriel', 
-    message: '"Durante todo o projeto se mostrou muito preparado e teve papel importante nas decisões que o grupo tomou, além de ter uma comunicação muito assertiva."', 
+    message: '"Throughout the project, he was very prepared and played an important role in the decisions that the group took, in addition to having very assertive communication."', 
     social: 'https://www.linkedin.com/in/joaogrs159/'
   },
 ];
