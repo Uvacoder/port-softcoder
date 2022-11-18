@@ -14,5 +14,3 @@
 ## 📄 License
 
 This project is under license. see the file [LICENSE](LICENSE.md) for more details.
-
-[⬆ Back to the top](#nome-do-projeto)<br>
