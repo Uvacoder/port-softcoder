@@ -3,7 +3,7 @@ import allIcons from 'simple-icons';
 import { v4 } from "uuid";
 import { IconCloud } from 'react-icon-cloud';
 
-const Componente = () => {
+const Component = () => {
   const tagCanvasOptions = {
     clickToFront: 500,
     depth: 1,
@@ -49,4 +49,4 @@ const Componente = () => {
   );
 };
 
-export default Componente;
+export default Component;
