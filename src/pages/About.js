@@ -30,7 +30,7 @@ function About() {
                   My name is <span className="span-highlight">Kenneth Mei.</span> I love to solve problems through codes. I have a Bachelor's degree in Software Engineering, I love <span className="span-highlight"> Full Stack JavaScript.</span>
                 </p>
                 <p className="text-about">
-                  My focus is to be able to improve people's lives, developing applications that are <span className="span-highlight">accessible and functional</span>. <br />Experience includes troubleshooting and testing, working in teams with good communication and tech skill.
+                  My focus is to be able to improve people's lives, developing applications that are <span className="span-highlight">accessible and functional</span>. <br />Experience includes troubleshooting and testing, working in teams with good communication and tech skills.
                 </p>
                 <p className="text-about last">
                   Relevant skills include: <span className="span-highlight">Html5, CSS3, JavaScript, React, Next, Redux, Hooks, Jest/RTL, AWS, Expres.js, Django, MongoDB, PostgreSQL.</span>

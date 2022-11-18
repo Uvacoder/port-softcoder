@@ -4,7 +4,7 @@ import TitleBar from "../components/TitleBar";
 import Footer from "../components/Footer";
 import SideBar from "../components/SideBar";
 import '../styles/Home.css';
-import image from '../images/img-perfil.png';
+import image from '../images/KennethMei.png';
 import { FiDownload } from 'react-icons/fi';
 import MenuMobile from "../components/MenuMobile";
 import Typical from 'react-typical';
@@ -23,7 +23,7 @@ function Home() {
               <p><span className="span">{'<'}</span>Hello 👋 I am </p>
               <h1>Kenneth Mei <span className="span">{'/>'}</span> </h1>
               <Typical 
-                steps={['Full Stack JS Developer', 5000, 'Web Development Expert', 5000]}
+                steps={['Full Stack JS Developer', 5000]}
                 loop={Infinity}
                 wrapper="h2"
               />
@@ -36,7 +36,7 @@ function Home() {
                 <FiDownload />
               </a>
             </div>
-            <image src={image} alt="Profile photo of Kenneth Mei, a Enthusiastic man with great experience." className="image-perfil" />
+            <img src={image} alt="Profile photo of Kenneth Mei, a Enthusiastic man with great experience." className="image-perfil" />
           </main>
         </section>
         {/* <SideBar /> */}
