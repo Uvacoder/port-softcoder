@@ -23,12 +23,12 @@ function Home() {
               <p><span className="span">{'<'}</span>Hello 👋 I am </p>
               <h1>Kenneth Mei <span className="span">{'/>'}</span> </h1>
               <Typical 
-                steps={['Full Stack JS Developer', 1000, 'Web Development Expert', 1000]}
+                steps={['Full Stack JS Developer', 5000, 'Web Development Expert', 5000]}
                 loop={Infinity}
                 wrapper="h2"
               />
               <a 
-                href="https://gitconnected.com/thiagodanobrega/resume" 
+                href="https://cvdesignr.com/p/6331aafbace7c" 
                 target="_blank"
                 className="btn-download" rel="noreferrer"
               >
@@ -36,7 +36,7 @@ function Home() {
                 <FiDownload />
               </a>
             </div>
-            <img src={image} alt="Profile photo of Kenneth Mei, a Enthusiastic man with great experience."  className="image-perfil" />
+            <image src={image} alt="Profile photo of Kenneth Mei, a Enthusiastic man with great experience." className="image-perfil" />
           </main>
         </section>
         {/* <SideBar /> */}
