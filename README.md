@@ -1,32 +1,10 @@
 # My Porfolio
 
-<p align="center">
- <img width="900" src="https://github.com/thiagodanobrega/myPortfolio/blob/master/project-preview.png?raw=true" alt="exemplo imagem" >
-</p>
-
-## 💻 Projeto
-
-Portfólio pessoal apresentando projetos e informações de contato.
-
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
 
 > Front-End: React, Context API, CSS, HTML, JavaScript
 
-## 📌 Habilidades
-
-Nesse projeto, fui capaz de:
-
-- Trabalhar com estado e componentes
-
-
-## 📝 Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Realizar testes unitários;
-
-## ⬇️ Instalando dependências
+## ⬇️ How to start
 
   ```bash
   cd src/
@@ -35,6 +13,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 📄 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. see the file [LICENSE](LICENSE.md) for more details.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back to the top](#nome-do-projeto)<br>
