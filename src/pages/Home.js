@@ -20,10 +20,10 @@ function Home() {
           <MenuMobile />
           <main className="main-wrapper home">
             <div className="home-content">
-              <p><span className="span">{'<'}</span>Olá 👋 eu sou o</p>
-              <h1>Thiago Nóbrega <span className="span">{'/>'}</span> </h1>
+              <p><span className="span">{'<'}</span>Hello 👋 I am </p>
+              <h1>Kenneth Mei <span className="span">{'/>'}</span> </h1>
               <Typical 
-                steps={['Front-End Developer', 1000, 'Web Development Student', 1000]}
+                steps={['Full Stack JS Developer', 1000, 'Web Development Expert', 1000]}
                 loop={Infinity}
                 wrapper="h2"
               />
@@ -36,10 +36,7 @@ function Home() {
                 <FiDownload />
               </a>
             </div>
-            <img 
-              src={image} alt="Foto de perfil do Thiago, um jovem homem branco de cabelo castanho" 
-              className="image-perfil"
-            />
+            <img src={image} alt="Profile photo of Kenneth Mei, a Enthusiastic man with great experience."  className="image-perfil" />
           </main>
         </section>
         {/* <SideBar /> */}

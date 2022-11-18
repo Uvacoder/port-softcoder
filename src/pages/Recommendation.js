@@ -17,7 +17,7 @@ function Projects() {
         <Header />
         <MenuMobile />
         <main className="main-wrapper recommendation">
-          <h1 className="title-recommendation">O que dizem devs que colaboraram comigo</h1>
+          <h1 className="title-recommendation">See application Developers and Clients who collaborated with me say</h1>
           <div className="recommendation-container">
             {recommendation.map(({name, message, social}, index) => (
               <div className={`recommendation-card ${index === 1 && 'border'}`} key={name}>
