@@ -9,7 +9,7 @@ function Footer() {
     <footer className="footer-container">
       <div className="links-footer">
         <p>Contact Me:</p>
-        <a href="https://www.linkedin.com/in/" 
+        <a href="https://www.linkedin.com/in/kenneth-mei-633196257" 
           target="_blank" 
           className="icon-container" 
           rel="noreferrer"
