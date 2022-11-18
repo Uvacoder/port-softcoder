@@ -11,7 +11,7 @@
   npm install
   ``` 
 
-## 📄 Licença
+## 📄 License
 
 This project is under license. see the file [LICENSE](LICENSE.md) for more details.
 
